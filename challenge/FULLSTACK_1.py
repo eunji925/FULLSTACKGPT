@@ -1,4 +1,5 @@
 # %%
+# 시를 만들고 시를 설명하는 체인을 작성하시오
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from langchain.callbacks import StreamingStdOutCallbackHandler
