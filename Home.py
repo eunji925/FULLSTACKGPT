@@ -15,7 +15,7 @@ Here are the apps I made:
             
 - [X] [DocumentGPT](/DocumentGPT)
 - [X] [PrivateGPT](/PrivateGPT)
-- [ ] [QuizGPT](/QuizGPT)
+- [X] [QuizGPT](/QuizGPT)
 - [ ] [SiteGPT](/SiteGPT)
 - [ ] [MeetingGPT](/MeetingGPT)
 - [ ] [InvestorGPT](/InvestorGPT)
